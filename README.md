@@ -2,7 +2,6 @@
 - 👋 , I’m @oprana22
 - 👀 I’m interested in statistics and ML
 - 🌱 I’m currently learning about generative ai and deep learning architectures
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at: anarpo.4@gmail.com
 
 <!---
